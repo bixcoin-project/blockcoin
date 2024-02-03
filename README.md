@@ -10,7 +10,12 @@ anyone, anywhere in the world.
 
 
 Total coins to be mined = 4b
+
+
 Rewards = 50 
+
+
+
 Permined = 42m
 
 
