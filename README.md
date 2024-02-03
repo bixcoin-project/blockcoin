@@ -6,7 +6,10 @@ What is Blockcoin?
 
 Blockcoin is an experimental digital currency that enables instant payments to
 anyone, anywhere in the world.
-Totals coins to be mined = 4b
+
+
+
+Total coins to be mined = 4b
 Rewards = 50 
 Permined = 42m
 
