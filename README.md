@@ -9,7 +9,7 @@ anyone, anywhere in the world.
 
 
 
-Total coins to be mined = 4b
+Total coins to be mined = 252,240,000
 
 
 Rewards = 50 
